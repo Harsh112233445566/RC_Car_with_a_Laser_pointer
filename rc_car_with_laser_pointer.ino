@@ -11,7 +11,7 @@ int flag = 1;      // flag to  mode change flag car to pointer
 #define R 0  
 #define L 1  
 
-// पिनों की परिभाषा
+
 int enA = 5;
 int enB = 23;
 int IN1 = 22;
